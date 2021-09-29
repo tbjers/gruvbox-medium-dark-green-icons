@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=oomox-gruvmox-default
-Comment=Papirus icon theme
+Name=gruvbox-medium-dark-green
+Comment=Gruvbox Medium Dark Green Papirus icon theme
 Inherits=breeze,hicolor
 
 Example=folder
